@@ -1,0 +1,17 @@
+Cache cleared at 21/04/2023 12:56:42 pm
+User request: file test00.txt at 21/04/2023 12:57:12 pm
+Response: file test00.txt downloaded from the server
+
+User request: file test0.txt at 21/04/2023 12:57:20 pm
+Response: file test0.txt downloaded from the server
+
+User request: file example.txt at 21/04/2023 12:57:21 pm
+Response: file example.txt downloaded from the server
+
+
+ User request: file test00.txt at 21/04/2023 12:57:23 pm
+ Response: cached file test00.txt
+
+User request: file test3.txt at 21/04/2023 12:57:39 pm
+Response: file test3.txt downloaded from the server
+

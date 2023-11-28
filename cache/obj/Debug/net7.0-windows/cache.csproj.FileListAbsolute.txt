@@ -1,0 +1,34 @@
+C:\Users\42239\Desktop\cache\bin\Debug\net7.0-windows\cache.exe
+C:\Users\42239\Desktop\cache\bin\Debug\net7.0-windows\cache.deps.json
+C:\Users\42239\Desktop\cache\bin\Debug\net7.0-windows\cache.runtimeconfig.json
+C:\Users\42239\Desktop\cache\bin\Debug\net7.0-windows\cache.dll
+C:\Users\42239\Desktop\cache\bin\Debug\net7.0-windows\cache.pdb
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.csproj.AssemblyReference.cache
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.Form1.resources
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.csproj.GenerateResource.cache
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.AssemblyInfoInputs.cache
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.AssemblyInfo.cs
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.csproj.CoreCompileInputs.cache
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.dll
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\refint\cache.dll
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.pdb
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\cache.genruntimeconfig.cache
+C:\Users\42239\Desktop\cache\obj\Debug\net7.0-windows\ref\cache.dll
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\bin\Debug\net7.0-windows\cache.exe
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\bin\Debug\net7.0-windows\cache.deps.json
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\bin\Debug\net7.0-windows\cache.runtimeconfig.json
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\bin\Debug\net7.0-windows\cache.dll
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\bin\Debug\net7.0-windows\cache.pdb
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.csproj.AssemblyReference.cache
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.Form1.resources
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.csproj.GenerateResource.cache
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.AssemblyInfoInputs.cache
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.AssemblyInfo.cs
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.csproj.CoreCompileInputs.cache
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.dll
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\refint\cache.dll
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.pdb
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\cache.genruntimeconfig.cache
+C:\Users\kcui996\OneDrive - The University of Auckland\Desktop\project a1\cache\obj\Debug\net7.0-windows\ref\cache.dll
