@@ -1,0 +1,4 @@
+This is a bug.
+If you open it or use the client form try to show this contents, you will get a path_error(I cant solve it, the last on in LISTBOX always has the path_error.). 
+Then if you want to run again my project, you will use the Task Manager to close the server. 
+Tanks.
